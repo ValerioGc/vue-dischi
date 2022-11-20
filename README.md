@@ -78,6 +78,6 @@
 ## *_Preview:_*
 
 <div align="center">
-  <img align="center" src="/preview/vue-dischi.png" alt="Thumbnails vue-dischi" />
+  <img align="center" src="/preview/vue-dischi-thumb.png" alt="Thumbnails vue-dischi" />
  <div>
  
