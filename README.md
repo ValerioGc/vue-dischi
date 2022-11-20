@@ -78,24 +78,6 @@
 ## *_Previews:_*
 
 <div align="center">
-  <img align="center" src="/previews/vue-dischi.gif" alt="Gif vue-dischi" />
-  
-  <br/> &nbsp;
-  
-  <img align="center" src="/previews/dischi-thumbs.png" alt="Thumbnails vue-dischi" />
+  <img align="center" src="/previews/vue-dischi.png" alt="Thumbnails vue-dischi" />
  <div>
-   
---------
-
-
-<details align="center">  
-  <summary><strong><ins> View Full size previews :arrow_heading_down: </summary></strong></ins>
-  
-  <br/>
-
-  <img src="/previews/dischi1.png" alt="preview1" /> 
-  <img src="/previews/dischi2.png" alt="preview2" /> 
-  <img src="/previews/dischi3.png" alt="preview3" /> 
-</details>
-
---------
+ 
