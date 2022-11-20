@@ -2,7 +2,7 @@
 
 > _Exercise about displaying data of music albums from an API with Vue CLI with filter about genres_
 
-<br />
+<br /> 
 
 ## *_Setup Project_*
 
