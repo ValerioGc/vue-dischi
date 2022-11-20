@@ -1,6 +1,6 @@
 # vue-dischi
 
-> _Exercise about displaying musics album from an API with Vue CLI_
+> _Exercise about displaying data of music albums from an API with Vue CLI with filter about genres_
 
 <br />
 
@@ -75,7 +75,7 @@
 
 <br/>
 
-## *_Previews:_*
+## *_Preview:_*
 
 <div align="center">
   <img align="center" src="/previews/vue-dischi.png" alt="Thumbnails vue-dischi" />
