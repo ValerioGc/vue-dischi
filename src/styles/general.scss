@@ -1,0 +1,22 @@
+
+@import '~@fontsource/exo-2/index.css';
+@import '~@fontsource/exo-2/700.css';
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: 'Exo 2', sans-serif;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0;  }
+    to { opacity: 1; }
+}
+
+.fadeIn {
+    animation: fadeIn 2s linear 0.2s both;
+}
